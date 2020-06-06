@@ -1,0 +1,32 @@
+{
+	"name": "glsl-dof",
+	"version": "1.0.0",
+	"description": "depth of field based on vertex position",
+	"main": "index.vert",
+	"license": "MIT",
+	"author": {
+		"name": "Bruno Imbrizi",
+		"url": "https://github.com/brunoimbrizi"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"glslify": "^7.0.0"
+	},
+	"scripts": {},
+	"keywords": [
+		"dof",
+		"depth",
+		"bokeh",
+		"blur",
+		"glsl",
+		"glslify"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/brunoimbrizi/glsl-dof.git"
+	},
+	"homepage": "https://github.com/brunoimbrizi/glsl-dof",
+	"bugs": {
+		"url": "https://github.com/brunoimbrizi/glsl-dof/issues"
+	}
+}
